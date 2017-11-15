@@ -1,0 +1,916 @@
+From: <Saved by Blink>
+X-Snapshot-Version: 1.0
+X-Snapshot-Title: =?utf-8?Q?license-discuss@opensource.org: 14232: Re: RPL 1.5 discussion?=
+X-Snapshot-Content-Location: http://crynwr.com/cgi-bin/ezmlm-cgi?3:mss:14232:dllmhdnfpdeigehepkma
+Subject: license-discuss@opensource.org: 14232: Re: RPL 1.5 discussion
+Date: Wed, 14 Nov 2017 23:07:59 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS----"
+
+------MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS----
+Content-Type: text/html
+Content-ID: <frame-923-2e3a486b-07bd-4c91-ae19-47ad375e515d@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://crynwr.com/cgi-bin/ezmlm-cgi?3:mss:14232:dllmhdnfpdeigehepkma
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252">
+<title>license-discuss@opensource.org: 14232: Re: RPL 1.5 discussion</title=
+>
+<link href=3D"http://crynwr.com/ezcgi.css" rel=3D"stylesheet" type=3D"text/=
+css">
+<meta name=3D"robots" content=3D"noindex">
+<meta name=3D"robots" content=3D"nofollow">
+<base href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi">
+</head>
+<body class=3D"msgbody">
+<div class=3D"msglinks"><strong>Msg by: <a href=3D"http://crynwr.com/cgi-bi=
+n/ezmlm-cgi?3:msp:14232:dllmhdnfpdeigehepkma">[&lt;-</a> <a href=3D"http://=
+crynwr.com/cgi-bin/ezmlm-cgi?3:sss:14232:dllmhdnfpdeigehepkma#b">thread</a>=
+ <a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:msn:14232:dllmhdnfpdeigeh=
+epkma">-&gt;]</a>=20
+<a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:mmp:14232">[&lt;-</a> <a h=
+ref=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:iis:14232#b">time</a> <a href=
+=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:mmn:14232">-&gt;]</a>=20
+<a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:map:14232">[&lt;-</a> <a h=
+ref=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:aas:14232#b">author</a> <a hre=
+f=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:man:14232">-&gt;]</a> |
+<a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:dds:14232#b">[Threads]</a>
+
+<a href=3D"mailto:license-discuss-getv14232@opensource.org?subject=3DJust%2=
+0Click%20%22SEND%22!">[Email Msg]</a>
+<a href=3D"mailto:license-discuss-threadv14232@opensource.org?subject=3DJus=
+t%20Click%20%22SEND%22!">[Email Thread]</a>
+<a href=3D"mailto:license-discuss-subscribe@opensource.org?subject=3DJust%2=
+0Click%20%22SEND%22!">[Subscribe To List]</a>
+<a href=3D"mailto:license-discuss-faq@opensource.org?subject=3DJust%20Click=
+%20%22SEND%22!">[List FAQ]</a>
+</strong></div>
+<div class=3D"message">
+<div class=3D"rfc822hdr"><hr>
+<span class=3D"subject"><em>Subject:</em><a class=3D"relk" href=3D"mailto:l=
+icense-discuss@opensource.org?subject=3DRe%3A%20RPL%201.5%20discussion"> Re=
+: RPL 1.5 discussion</a></span>
+<br><em>From:</em> "Alexander Terekhov" &lt;alexander.terekhov@gmail.com&gt=
+;
+<br><em>Date:</em> Wed, 26 Sep 2007 19:13:59 +0200
+<br></div>
+<hr>
+<pre> Wed, 26 Sep 2007 19:13:59 +0200
+On 9/25/07, Walter van Holst &lt;w.van.holst@mitopics.nl&gt; wrote:
+
+[... EU 91/250/EEC Article 5 Exceptions to the restricted acts and
+Article 6 Decompilation ...]
+
+&gt; For the reading comprehension impaired: the reverse engineering except=
+ion of the
+&gt; Software Directive is extremely limited in scope and is for all practi=
+cal intents
+and
+&gt; purposes almost completely useless. It a) is only applicable to softwa=
+re-to-software
+&gt; interfaces, b) may only be invoked after the copyright holder has deni=
+ed requests
+for
+&gt; information, c) may not be used to duplicate functionality and d) the =
+reverse engineer
+&gt; may only reverse engineer those parts that are strictly necessary to o=
+btain the
+&gt; required information, which requires advance knowledge of the parts of=
+ the original
+&gt; software where such information resides.
+&gt;
+&gt; You can disprove me by providing a remotely practical  example in whic=
+h you think
+&gt; the  so-called decompilation (which is a wrong term, but whatever) exc=
+eption applies
+&gt; and  that clearly dodges the restrictions mentioned above.
+
+You mean Article 6 Decompilation?
+
+In Germany, it is codified in =A7 69e UrhG
+<a href=3D"http://dejure.org/gesetze/UrhG/69e.html">http://dejure.org/geset=
+ze/UrhG/69e.html</a> Dekompilierung (and Article 5
+is in =A7 69d).
+
+I won't argue with you about its usefulness.
+
+I just note that BGH went on record with this:
+
+<a href=3D"http://lexetius.com/2000,3775">http://lexetius.com/2000,3775</a>
+
+"Unter Heranziehung der Grunds=E4tze aus dem Urteil des Bundesfinanzhofs
+(BFH) vom 13. M=E4rz 1997 V R 13/ 96 (BFHE 182, 423, BStBl II 1997, 372)
+legte das FG dar, die Kl=E4gerin habe ihren Kunden nur die zur
+bestimmungsgem=E4=DFen Nutzung des Programms notwendigen in =A7=A7 69d und =
+69e
+UrhG genannten Befugnisse =FCbertragen, z. B. das Recht zum Starten des
+Programms, zur Bearbeitung und zur Anfertigung von Sicherheitskopien
+im Rahmen der Anwendung des Computerprogramms und zur dauerhaften oder
+vor=FCbergehenden Vervielf=E4ltigung. Diese Rechte st=FCnden dem Erwerber
+der Software und jedem berechtigten Anwender kraft Gesetzes zu, weil
+sie f=FCr die Benutzung - nicht aber f=FCr eine weiter gehende Verwertung
+- erforderlich oder zumindest n=FCtzlich seien. Einer
+rechtsgesch=E4ftlichen Einr=E4umung dieser mit dem Erwerb der Software
+erlangten Rechte bed=FCrfe es nicht. "
+
+regards,
+alexander.
+
+--
+"PJ points out that lawyers seem to have difficulty understanding the
+GPL. My main concern with GPLv3 is that - unlike v2 - non-lawyers can't
+understand it either."
+                               -- Anonymous Groklaw Visitor
+</pre>
+<hr></div>
+<div class=3D"msglinks"><strong>Msg by: <a href=3D"http://crynwr.com/cgi-bi=
+n/ezmlm-cgi?3:msp:14232:dllmhdnfpdeigehepkma">[&lt;-</a> <a href=3D"http://=
+crynwr.com/cgi-bin/ezmlm-cgi?3:sss:14232:dllmhdnfpdeigehepkma#b">thread</a>=
+ <a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:msn:14232:dllmhdnfpdeigeh=
+epkma">-&gt;]</a>=20
+<a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:mmp:14232">[&lt;-</a> <a h=
+ref=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:iis:14232#b">time</a> <a href=
+=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:mmn:14232">-&gt;]</a>=20
+<a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:map:14232">[&lt;-</a> <a h=
+ref=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:aas:14232#b">author</a> <a hre=
+f=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:man:14232">-&gt;]</a> |
+<a href=3D"http://crynwr.com/cgi-bin/ezmlm-cgi?3:dds:14232#b">[Threads]</a>
+
+<a href=3D"mailto:license-discuss-getv14232@opensource.org?subject=3DJust%2=
+0Click%20%22SEND%22!">[Email Msg]</a>
+<a href=3D"mailto:license-discuss-threadv14232@opensource.org?subject=3DJus=
+t%20Click%20%22SEND%22!">[Email Thread]</a>
+<a href=3D"mailto:license-discuss-subscribe@opensource.org?subject=3DJust%2=
+0Click%20%22SEND%22!">[Subscribe To List]</a>
+<a href=3D"mailto:license-discuss-faq@opensource.org?subject=3DJust%20Click=
+%20%22SEND%22!">[List FAQ]</a>
+</strong></div>
+
+
+</body><div><template shadowmode=3D"v0"><style type=3D"text/css">/*
+ * Many CSS class names in this file use the verbose "vimiumXYZ" as the cla=
+ss name. This is so we don't
+ * use the same CSS class names that the page is using, so the page's CSS d=
+oesn't mess with the style of our
+ * Vimium dialogs.
+ *
+ * The z-indexes of Vimium elements are very large, because we always want =
+them to show on top.  We know
+ * that Chrome supports z-index values up to about 2^31.  The values we use=
+ are large numbers approaching
+ * that bound.  However, we must leave headroom for link hints.  Hint marke=
+r z-indexes start at 2140000001.
+ */
+
+/*
+ * This vimiumReset class can be added to any of our UI elements to give it=
+ a clean slate. This is useful in
+ * case the page has declared a broad rule like "a { padding: 50px; }" whic=
+h will mess up our UI. These
+ * declarations contain more specifiers than necessary to increase their sp=
+ecificity (precedence).
+ */
+.vimiumReset,
+div.vimiumReset,
+span.vimiumReset,
+table.vimiumReset,
+a.vimiumReset,
+a:visited.vimiumReset,
+a:link.vimiumReset,
+a:hover.vimiumReset,
+td.vimiumReset,
+tr.vimiumReset {
+  background: none;
+  border: none;
+  bottom: auto;
+  box-shadow: none;
+  color: black;
+  cursor: auto;
+  display: inline;
+  float: none;
+  font-family : "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: inherit;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  height: auto;
+  left: auto;
+  letter-spacing: 0;
+  line-height: 100%;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  opacity: 1;
+  padding: 0;
+  position: static;
+  right: auto;
+  text-align: left;
+  text-decoration: none;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  vertical-align: baseline;
+  white-space: normal;
+  width: auto;
+  z-index: 2140000000; /* Vimium's reference z-index value. */
+}
+
+thead.vimiumReset, tbody.vimiumReset {
+  display: table-header-group;
+}
+
+tbody.vimiumReset {
+  display: table-row-group;
+}
+
+/* Linkhints CSS */
+
+div.internalVimiumHintMarker {
+  position: absolute;
+  display: block;
+  top: -1px;
+  left: -1px;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 11px;
+  padding: 1px 3px 0px 3px;
+  background: linear-gradient(to bottom, #FFF785 0%,#FFC542 100%);
+  border: solid 1px #C38A22;
+  border-radius: 3px;
+  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.3);
+}
+
+div.internalVimiumHintMarker span {
+  color: #302505;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 11px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+div.internalVimiumHintMarker > .matchingCharacter {
+  color: #D4AC3A;
+}
+
+div > .vimiumActiveHintMarker span {
+  color: #A07555 !important;
+}
+
+/* Input hints CSS */
+
+div.internalVimiumInputHint {
+  position: absolute;
+  display: block;
+  background-color: rgba(255, 247, 133, 0.3);
+  border: solid 1px #C38A22;
+  pointer-events: none;
+}
+
+div.internalVimiumSelectedInputHint {
+  background-color: rgba(255, 102, 102, 0.3);
+  border: solid 1px #993333 !important;
+}
+
+div.internalVimiumSelectedInputHint span {
+  color: white !important;
+}
+
+/* Frame Highlight Marker CSS*/
+div.vimiumHighlightedFrame {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  padding: 0px;
+  margin: 0px;
+  border: 5px solid yellow;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+/* Help Dialog CSS */
+
+iframe.vimiumHelpDialogFrame {
+  background-color: rgba(10,10,10,0.6);
+  padding: 0px;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: fixed;
+  border: none;
+  z-index: 2139999997; /* Three less than the reference value. */
+}
+
+div#vimiumHelpDialogContainer {
+  opacity:1.0;
+  background-color:white;
+  border:2px solid #b3b3b3;
+  border-radius:6px;
+  width: 840px;
+  max-width: calc(100% - 100px);
+  max-height: calc(100% - 100px);
+  margin: 50px auto;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+div#vimiumHelpDialog {
+  min-width: 600px;
+  padding:8px 12px;
+}
+
+span#vimiumTitle, span#vimiumTitle span,  span#vimiumTitle * { font-size:20=
+px; }
+#vimiumTitle {
+  display: block;
+  line-height: 130%;
+  white-space: nowrap;
+}
+td.vimiumHelpDialogTopButtons {
+  width: 100%;
+  text-align: right;
+}
+#helpDialogOptionsPage, #helpDialogWikiPage {
+  font-size: 14px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+div.vimiumColumn {
+  width:50%;
+  float:left;
+  font-size: 11px;
+  line-height: 130%;
+}
+
+div.vimiumColumn tr {
+    display: table-row;
+}
+
+div.vimiumColumn td {
+    display: table-cell;
+    font-size: 11px;
+    line-height: 130%;
+}
+div.vimiumColumn table, div.vimiumColumn td, div.vimiumColumn tr { padding:=
+0; margin:0; }
+div.vimiumColumn table { width:100%; table-layout:auto; }
+div.vimiumColumn td { vertical-align:top; padding:1px; }
+div#vimiumHelpDialog div.vimiumColumn tr > td:first-of-type {
+  /* This is the "key" column, e.g. "j", "gg". */
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  text-align:right;
+  white-space:nowrap;
+}
+span.vimiumHelpDialogKey {
+  background-color: rgb(243,243,243);
+  color: rgb(33,33,33);
+  margin-left: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 3px;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  box-shadow: inset 0 -1px 0 #bbb;
+  font-family: monospace;
+  font-size: 11px;
+}
+/* Make the description column as wide as it can be. */
+div#vimiumHelpDialog div.vimiumColumn tr > td:nth-of-type(3) { width:100%; =
+}
+div#vimiumHelpDialog div.vimiumDivider {
+  display: block;
+  height:1px;
+  width:100%;
+  margin:10px auto;
+  background-color:#9a9a9a;
+}
+div#vimiumHelpDialog td.vimiumHelpSectionTitle {
+  padding-top:3px;
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:16px;
+  font-weight:bold;
+}
+div#vimiumHelpDialog td.vimiumHelpDescription {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+}
+div#vimiumHelpDialog span.vimiumCopyCommandNameName {
+  font-style: italic;
+  cursor: pointer;
+  font-size: 12px;
+}
+/* Advanced commands are hidden by default until you show them. */
+div#vimiumHelpDialog tr.advanced { display: none; }
+div#vimiumHelpDialog.showAdvanced tr.advanced { display: table-row; }
+div#vimiumHelpDialog div.advanced td:nth-of-type(3) { color: #555; }
+div#vimiumHelpDialog a.closeButton {
+  font-family:"courier new";
+  font-weight:bold;
+  color:#555;
+  text-decoration:none;
+  font-size:24px;
+  position: relative;
+  top: 3px;
+  padding-left: 5px;
+}
+div#vimiumHelpDialog a {
+  text-decoration: underline;
+}
+
+div#vimiumHelpDialog a.closeButton:hover {
+  color:black;
+  -webkit-user-select:none;
+}
+div#vimiumHelpDialogFooter {
+  display: block;
+  position: relative;
+  margin-bottom: 37px;
+}
+table.helpDialogBottom {
+  width:100%;
+}
+td.helpDialogBottomRight {
+  width:100%;
+  float:right;
+  text-align: right;
+}
+td.helpDialogBottomRight, td.helpDialogBottomLeft {
+  padding: 0px;
+}
+div#vimiumHelpDialogFooter * { font-size:10px; }
+a#toggleAdvancedCommands, span#help-dialog-tip {
+  position: relative;
+  top: 19px;
+  white-space: nowrap;
+  font-size: 10px;
+}
+a:link.vimiumHelDialogLink, a:visited.vimiumHelDialogLink,
+  a:hover.vimiumHelDialogLink, a:active.vimiumHelDialogLink, a#toggleAdvanc=
+edCommands {
+    color:#2f508e;
+    text-decoration: underline;
+}
+
+/* Vimium HUD CSS */
+
+div.vimiumHUD {
+  display: block;
+  position: fixed;
+  bottom: 0px;
+  /* Keep this far enough to the right so that it doesn't collide with the =
+"popups blocked" chrome HUD. */
+  right: 0px;
+  color: black;
+  height: auto;
+  min-height: 13px;
+  width: auto;
+  max-width: 400px;
+  min-width: 150px;
+  text-align: left;
+  background-color: #ebebeb;
+  padding: 3px 3px 2px 3px;
+  margin: 0;
+  border: 1px solid #b3b3b3;
+  border-radius: 4px 4px 0 0;
+  font-family: "Lucida Grande", "Arial", "Sans";
+  font-size: 12px;
+  text-shadow: 0px 1px 2px #FFF;
+  line-height: 1.0;
+}
+
+iframe.vimiumHUDFrame {
+  display: block;
+  background: none;
+  position: fixed;
+  bottom: 0px;
+  right: 150px;
+  height: 20px;
+  min-height: 20px;
+  width: 450px;
+  min-width: 150px;
+  padding: 0px;
+  margin: 0;
+  border: none;
+  z-index: 2149999998; /* Two less than the reference value. */
+  opacity: 0;
+}
+
+div.vimiumHUD span#hud-find-input, div.vimiumHUD span#hud-match-count {
+  display: inline;
+  outline: none;
+  white-space: nowrap;
+  overflow-y: hidden;
+}
+
+div.vimiumHUD span#hud-find-input br {
+  display: none;
+}
+
+div.vimiumHUD span#hud-find-input * {
+  display: inline;
+  white-space: nowrap;
+}
+
+body.vimiumFindMode ::selection {
+  background: #ff9632;
+}
+
+/* Vomnibar Frame CSS */
+
+iframe.vomnibarFrame {
+  background-color: transparent;
+  padding: 0px;
+  overflow: hidden;
+
+  display: block;
+  position: fixed;
+  width: calc(80% + 20px); /* same adjustment as in pages/vomnibar.coffee *=
+/
+  min-width: 400px;
+  height: calc(100% - 70px);
+  top: 70px;
+  left: 50%;
+  margin: 0 0 0 -40%;
+  border: none;
+  font-family: sans-serif;
+  z-index: 2149999998; /* Two less than the reference value. */
+}
+
+div.vimiumFlash {
+  box-shadow: 0px 0px 4px 2px #4183C4;
+  padding: 1px;
+  background-color: transparent;
+  position: absolute;
+  z-index: 2140000000;
+}
+
+/* UIComponent CSS */
+iframe.vimiumUIComponentHidden {
+  display: none;
+}
+
+iframe.vimiumUIComponentVisible {
+  display: block;
+}
+
+iframe.vimiumUIComponentReactivated {
+  border: 5px solid yellow;
+}
+</style><iframe class=3D"vomnibarFrame vimiumUIComponentHidden" src=3D"cid:=
+frame-925-68e570a3-87dc-45b7-a7de-ee425c292655@mhtml.blink"></iframe></temp=
+late></div></html>
+------MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://crynwr.com/ezcgi.css
+
+@charset "windows-1252";
+
+body { background-color: rgb(255, 255, 224); margin-left: 5%; margin-right:=
+ 5%; }
+
+a:link { color: black; }
+
+a:active { color: black; }
+
+h1 { color: red; font-size: 200%; text-align: center; }
+
+h2 { color: green; font-size: 150%; text-align: left; }
+
+hr { border: medium; color: rgb(0, 66, 107); }
+
+div.idx { margin-left: 5%; margin-right: 5%; }
+
+a.alk { color: green; font-style: italic; }
+
+li.subjbody { margin-left: 15%; }
+
+li.authbody { margin-left: 10%; }
+
+div.rfc822hdr { text-align: left; font-size: 100%; }
+
+em.rfc822hdr { font-weight: bold; font-family: arial, sans-serif; }
+
+span.subject { font-weight: bold; font-size: 150%; }
+
+a.relk { color: red; }
+
+div.copyright { font-size: 50%; text-align: right; }
+------MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS----
+Content-Type: text/html
+Content-ID: <frame-925-68e570a3-87dc-45b7-a7de-ee425c292655@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/vomnibar.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252">
+    <title>Vomnibar</title>
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+   =20
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"chrome-extension://d=
+bepggeogbaibhgnhhndojpepiihcmeb/content_scripts/vimium.css">
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"chrome-extension://d=
+bepggeogbaibhgnhhndojpepiihcmeb/pages/vomnibar.css">
+  <style type=3D"text/css">div > .vimiumHintMarker {
+/* linkhint boxes */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#=
+FFF785),
+  color-stop(100%,#FFC542));
+border: 1px solid #E3BE23;
+}
+
+div > .vimiumHintMarker span {
+/* linkhint text */
+color: black;
+font-weight: bold;
+font-size: 12px;
+}
+
+div > .vimiumHintMarker > .matchingCharacter {
+}</style></head>
+  <body>
+    <div id=3D"vomnibar" class=3D"vimiumReset">
+      <div class=3D"vimiumReset vomnibarSearchArea">
+        <input id=3D"vomnibarInput" type=3D"text" class=3D"vimiumReset" dis=
+abled=3D"">
+      </div>
+      <ul class=3D"vimiumReset"></ul>
+    </div>
+ =20
+
+</body></html>
+------MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/content_scripts/vimium.css
+
+@charset "windows-1252";
+
+.vimiumReset, div.vimiumReset, span.vimiumReset, table.vimiumReset, a.vimiu=
+mReset, a:visited.vimiumReset, a:link.vimiumReset, a:hover.vimiumReset, td.=
+vimiumReset, tr.vimiumReset { background: none; border: none; bottom: auto;=
+ box-shadow: none; color: black; cursor: auto; display: inline; float: none=
+; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: i=
+nherit; font-style: normal; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; font-weight: normal; height: auto; left: auto; letter-spacing: =
+0px; line-height: 100%; margin: 0px; max-height: none; max-width: none; min=
+-height: 0px; min-width: 0px; opacity: 1; padding: 0px; position: static; r=
+ight: auto; text-align: left; text-decoration: none; text-indent: 0px; text=
+-shadow: none; text-transform: none; top: auto; vertical-align: baseline; w=
+hite-space: normal; width: auto; z-index: 2140000000; }
+
+thead.vimiumReset, tbody.vimiumReset { display: table-header-group; }
+
+tbody.vimiumReset { display: table-row-group; }
+
+div.internalVimiumHintMarker { position: absolute; display: block; top: -1p=
+x; left: -1px; white-space: nowrap; overflow: hidden; font-size: 11px; padd=
+ing: 1px 3px 0px; background: linear-gradient(rgb(255, 247, 133) 0%, rgb(25=
+5, 197, 66) 100%); border: 1px solid rgb(195, 138, 34); border-radius: 3px;=
+ box-shadow: rgba(0, 0, 0, 0.3) 0px 3px 7px 0px; }
+
+div.internalVimiumHintMarker span { color: rgb(48, 37, 5); font-family: Hel=
+vetica, Arial, sans-serif; font-weight: bold; font-size: 11px; text-shadow:=
+ rgba(255, 255, 255, 0.6) 0px 1px 0px; }
+
+div.internalVimiumHintMarker > .matchingCharacter { color: rgb(212, 172, 58=
+); }
+
+div > .vimiumActiveHintMarker span { color: rgb(160, 117, 85) !important; }
+
+div.internalVimiumInputHint { position: absolute; display: block; backgroun=
+d-color: rgba(255, 247, 133, 0.3); border: 1px solid rgb(195, 138, 34); poi=
+nter-events: none; }
+
+div.internalVimiumSelectedInputHint { background-color: rgba(255, 102, 102,=
+ 0.3); border: 1px solid rgb(153, 51, 51) !important; }
+
+div.internalVimiumSelectedInputHint span { color: white !important; }
+
+div.vimiumHighlightedFrame { position: fixed; top: 0px; left: 0px; width: 1=
+00%; height: 100%; padding: 0px; margin: 0px; border: 5px solid yellow; box=
+-sizing: border-box; pointer-events: none; }
+
+iframe.vimiumHelpDialogFrame { background-color: rgba(10, 10, 10, 0.6); pad=
+ding: 0px; top: 0px; left: 0px; width: 100%; height: 100%; display: block; =
+position: fixed; border: none; z-index: 2139999997; }
+
+div#vimiumHelpDialogContainer { opacity: 1; background-color: white; border=
+: 2px solid rgb(179, 179, 179); border-radius: 6px; width: 840px; max-width=
+: calc(100% - 100px); max-height: calc(100% - 100px); margin: 50px auto; ov=
+erflow: auto; }
+
+div#vimiumHelpDialog { min-width: 600px; padding: 8px 12px; }
+
+span#vimiumTitle, span#vimiumTitle span, span#vimiumTitle * { font-size: 20=
+px; }
+
+#vimiumTitle { display: block; line-height: 130%; white-space: nowrap; }
+
+td.vimiumHelpDialogTopButtons { width: 100%; text-align: right; }
+
+#helpDialogOptionsPage, #helpDialogWikiPage { font-size: 14px; padding-left=
+: 5px; padding-right: 5px; }
+
+div.vimiumColumn { width: 50%; float: left; font-size: 11px; line-height: 1=
+30%; }
+
+div.vimiumColumn tr { display: table-row; }
+
+div.vimiumColumn td { display: table-cell; font-size: 11px; line-height: 13=
+0%; }
+
+div.vimiumColumn table, div.vimiumColumn td, div.vimiumColumn tr { padding:=
+ 0px; margin: 0px; }
+
+div.vimiumColumn table { width: 100%; table-layout: auto; }
+
+div.vimiumColumn td { vertical-align: top; padding: 1px; }
+
+div#vimiumHelpDialog div.vimiumColumn tr > td:first-of-type { font-family: =
+"Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; text-align=
+: right; white-space: nowrap; }
+
+span.vimiumHelpDialogKey { background-color: rgb(243, 243, 243); color: rgb=
+(33, 33, 33); margin-left: 2px; padding: 1px 4px; border-radius: 3px; borde=
+r-width: 1px; border-style: solid; border-color: rgb(204, 204, 204) rgb(204=
+, 204, 204) rgb(187, 187, 187); border-image: initial; box-shadow: rgb(187,=
+ 187, 187) 0px -1px 0px inset; font-family: monospace; font-size: 11px; }
+
+div#vimiumHelpDialog div.vimiumColumn tr > td:nth-of-type(3) { width: 100%;=
+ }
+
+div#vimiumHelpDialog div.vimiumDivider { display: block; height: 1px; width=
+: 100%; margin: 10px auto; background-color: rgb(154, 154, 154); }
+
+div#vimiumHelpDialog td.vimiumHelpSectionTitle { padding-top: 3px; font-fam=
+ily: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; font-=
+weight: bold; }
+
+div#vimiumHelpDialog td.vimiumHelpDescription { font-family: "Helvetica Neu=
+e", Helvetica, Arial, sans-serif; font-size: 14px; }
+
+div#vimiumHelpDialog span.vimiumCopyCommandNameName { font-style: italic; c=
+ursor: pointer; font-size: 12px; }
+
+div#vimiumHelpDialog tr.advanced { display: none; }
+
+div#vimiumHelpDialog.showAdvanced tr.advanced { display: table-row; }
+
+div#vimiumHelpDialog div.advanced td:nth-of-type(3) { color: rgb(85, 85, 85=
+); }
+
+div#vimiumHelpDialog a.closeButton { font-family: "courier new"; font-weigh=
+t: bold; color: rgb(85, 85, 85); text-decoration: none; font-size: 24px; po=
+sition: relative; top: 3px; padding-left: 5px; }
+
+div#vimiumHelpDialog a { text-decoration: underline; }
+
+div#vimiumHelpDialog a.closeButton:hover { color: black; user-select: none;=
+ }
+
+div#vimiumHelpDialogFooter { display: block; position: relative; margin-bot=
+tom: 37px; }
+
+table.helpDialogBottom { width: 100%; }
+
+td.helpDialogBottomRight { width: 100%; float: right; text-align: right; }
+
+td.helpDialogBottomRight, td.helpDialogBottomLeft { padding: 0px; }
+
+div#vimiumHelpDialogFooter * { font-size: 10px; }
+
+a#toggleAdvancedCommands, span#help-dialog-tip { position: relative; top: 1=
+9px; white-space: nowrap; font-size: 10px; }
+
+a:link.vimiumHelDialogLink, a:visited.vimiumHelDialogLink, a:hover.vimiumHe=
+lDialogLink, a:active.vimiumHelDialogLink, a#toggleAdvancedCommands { color=
+: rgb(47, 80, 142); text-decoration: underline; }
+
+div.vimiumHUD { display: block; position: fixed; bottom: 0px; right: 0px; c=
+olor: black; height: auto; min-height: 13px; width: auto; max-width: 400px;=
+ min-width: 150px; text-align: left; background-color: rgb(235, 235, 235); =
+padding: 3px 3px 2px; margin: 0px; border: 1px solid rgb(179, 179, 179); bo=
+rder-radius: 4px 4px 0px 0px; font-family: "Lucida Grande", Arial, Sans; fo=
+nt-size: 12px; text-shadow: rgb(255, 255, 255) 0px 1px 2px; line-height: 1;=
+ }
+
+iframe.vimiumHUDFrame { display: block; background: none; position: fixed; =
+bottom: 0px; right: 150px; height: 20px; min-height: 20px; width: 450px; mi=
+n-width: 150px; padding: 0px; margin: 0px; border: none; z-index: 214748364=
+7; opacity: 0; }
+
+div.vimiumHUD span#hud-find-input, div.vimiumHUD span#hud-match-count { dis=
+play: inline; outline: none; white-space: nowrap; overflow-y: hidden; }
+
+div.vimiumHUD span#hud-find-input br { display: none; }
+
+div.vimiumHUD span#hud-find-input * { display: inline; white-space: nowrap;=
+ }
+
+body.vimiumFindMode ::selection { background: rgb(255, 150, 50); }
+
+iframe.vomnibarFrame { background-color: transparent; padding: 0px; overflo=
+w: hidden; display: block; position: fixed; width: calc(80% + 20px); min-wi=
+dth: 400px; height: calc(100% - 70px); top: 70px; left: 50%; margin: 0px 0p=
+x 0px -40%; border: none; font-family: sans-serif; z-index: 2147483647; }
+
+div.vimiumFlash { box-shadow: rgb(65, 131, 196) 0px 0px 4px 2px; padding: 1=
+px; background-color: transparent; position: absolute; z-index: 2140000000;=
+ }
+
+iframe.vimiumUIComponentHidden { display: none; }
+
+iframe.vimiumUIComponentVisible { display: block; }
+
+iframe.vimiumUIComponentReactivated { border: 5px solid yellow; }
+------MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome-extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/vomnibar.css
+
+@charset "windows-1252";
+
+#vomnibar ol, #vomnibar ul { list-style: none; display: none; }
+
+#vomnibar { display: block; position: fixed; width: calc(100% - 20px); top:=
+ 8px; left: 8px; font-family: sans-serif; background: rgb(241, 241, 241); t=
+ext-align: left; border-radius: 4px; box-shadow: rgba(0, 0, 0, 0.8) 0px 2px=
+ 10px; border: 1px solid rgb(170, 170, 170); z-index: 2139999999; }
+
+#vomnibar input { color: rgb(0, 0, 0); font-family: "Helvetica Neue", Helve=
+tica, Arial, sans-serif; font-size: 20px; height: 34px; margin-bottom: 0px;=
+ padding: 4px; background-color: white; border-radius: 3px; border: 1px sol=
+id rgb(232, 232, 232); box-shadow: rgb(68, 68, 68) 0px 0px 1px; width: 100%=
+; outline: none; box-sizing: border-box; }
+
+#vomnibar .vomnibarSearchArea { display: block; padding: 10px; background-c=
+olor: rgb(241, 241, 241); border-radius: 4px 4px 0px 0px; border-bottom: 1p=
+x solid rgb(198, 201, 206); }
+
+#vomnibar ul { background-color: white; border-radius: 0px 0px 4px 4px; lis=
+t-style: none; padding: 0px 0px 10px; }
+
+#vomnibar li { border-bottom: 1px solid rgb(221, 221, 221); line-height: 1.=
+1em; padding: 7px 10px; font-size: 16px; color: black; position: relative; =
+display: list-item; margin: auto; }
+
+#vomnibar li:last-of-type { border-bottom: none; }
+
+#vomnibar li .vomnibarTopHalf, #vomnibar li .vomnibarBottomHalf { display: =
+block; overflow: hidden; }
+
+#vomnibar li .vomnibarBottomHalf { font-size: 15px; margin-top: 3px; paddin=
+g: 2px 0px; }
+
+#vomnibar li .vomnibarIcon { background-position-y: 50%; background-size: 1=
+6px; background-repeat: no-repeat; padding-left: 20px; }
+
+#vomnibar li .vomnibarSource { color: rgb(119, 119, 119); margin-right: 4px=
+; }
+
+#vomnibar li .vomnibarRelevancy { position: absolute; right: 0px; top: 0px;=
+ padding: 5px; background-color: white; color: black; font-family: monospac=
+e; width: 100px; overflow: hidden; }
+
+#vomnibar li .vomnibarUrl { white-space: nowrap; color: rgb(34, 70, 132); }
+
+#vomnibar li .vomnibarMatch { font-weight: bold; color: black; }
+
+#vomnibar li em, #vomnibar li .vomnibarTitle { color: black; margin-left: 4=
+px; font-weight: normal; }
+
+#vomnibar li em { font-style: italic; }
+
+#vomnibar li em .vomnibarMatch, #vomnibar li .vomnibarTitle .vomnibarMatch =
+{ color: rgb(51, 51, 51); }
+
+#vomnibar li.vomnibarSelected { background-color: rgb(187, 206, 233); font-=
+weight: normal; }
+
+#vomnibarInput::selection { background-color: rgb(230, 238, 251); }
+
+.vomnibarInsertText { }
+
+.vomnibarNoInsertText { visibility: hidden; }
+------MultipartBoundary--Uky70U1RawlogY5PuPDLT7dgGWxyIHNQOrtk1Q5GxS------
